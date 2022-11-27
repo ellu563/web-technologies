@@ -1,0 +1,23 @@
+.big-container {
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+}
+
+.operator {
+  width: 300px;
+}
+
+.result {
+  width: 200px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#laske {
+  display: block;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  font-size: 20px;
+}

@@ -1,0 +1,8 @@
+.big-container {
+  text-align: center;
+}
+.carousel {
+  margin: 20px;
+  width: 100%;
+  overflow: scroll;
+}

@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn {
+  background-color: #ff35b8;
+  padding: 15px 40px;
+  outline-offset: 2px;
+}
+
+.jouk {
+  padding: 10px;
+}
